@@ -36,9 +36,11 @@ The competition is consisting of 4 rounds: preliminary, R1, R2, R3, Finals.
 ## Preliminary round 
 12 days
  each day 12-14 players
- 77 participants - 
+ 163 participants - 
  average duration 30min
  each 6 pieces/works
+ 
+ results: https://en.wikipedia.org/wiki/XVII_International_Chopin_Piano_Competition
  
  all    https://www.youtube.com/playlist?list=PLTmn2qD3aSQuKEzTQr8vFzf8B_fHXiQYW
  
@@ -61,7 +63,18 @@ The competition is consisting of 4 rounds: preliminary, R1, R2, R3, Finals.
  
 ## R1 - first recital
  3-7 October 2015 – first stage 
- 80 participants
+ 81 participants
+ 
+ Wśród uczestników eliminacji najliczniejszą grupę stanowić będą pianiści z Dalekiego Wschodu:
+ 26 osób z Chin, 25 z Japonii oraz 24 z Korei Południowej.
+ 
+ Czwartą co do liczebności grupą będą Polacy – 21 osób.
+ Pozostali reprezentanci pochodzą z Rosji i Stanów Zjednoczonych (po 11 osób),
+ Wielkiej Brytanii (5 osób) i Włoch (4 osoby), Francji (6 osób),
+ Kanady i Ukrainy (po 4 osoby), Czech i Tajwanu (po 2 osoby)
+ a także z  Austrii, Białorusi, Chorwacji, Grecji, Holandii, 
+ Indonezji, Łotwy, Mongolii, Niemiec, Rumunii, Singapuru, Szwajcarii, 
+ Szwecji, Uzbekistanu i Węgier (po 1 osobie).
  
  4 pieces per each participant = 2 etudies + 1 nocturne + 1 Ballade or Scherzo
  
