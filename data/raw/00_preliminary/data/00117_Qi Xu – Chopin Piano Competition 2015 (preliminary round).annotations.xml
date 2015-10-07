@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations>
+<annotation id="channel:5515685e-0000-25c2-8a26-001a11403a92" style="branding" type="branding"
+            log_data="a-v=_xexvqseVMs&amp;a-type=10&amp;link-id=UCSTXol20Q01Uj-U5Yp3IqFg&amp;len-sec=1678&amp;a-ch=UCSTXol20Q01Uj-U5Yp3IqFg&amp;xble=0&amp;a-id=5515685e-0000-25c2-8a26-001a11403a92&amp;img-type=1">
+  <data>{&quot;num_subscribers&quot;:&quot;12,914 subscribers&quot;,&quot;image_type&quot;:1,&quot;channel_name&quot;:&quot;Chopin Institute&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/STXol20Q01Uj-U5Yp3IqFg\/featured_channel.jpg?v=551a6e64&quot;,&quot;start_ms&quot;:0,&quot;is_mobile&quot;:false,&quot;subscription_token&quot;:&quot;&quot;,&quot;end_ms&quot;:1678000,&quot;image_width&quot;:40,&quot;channel_id&quot;:&quot;UCSTXol20Q01Uj-U5Yp3IqFg&quot;,&quot;image_height&quot;:40}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UCSTXol20Q01Uj-U5Yp3IqFg?annotation_id=5515685e-0000-25c2-8a26-001a11403a92&amp;feature=iv&amp;src_vid=_xexvqseVMs"/>
+  </action>
+  <html_blob>
+    
+  </html_blob>
+</annotation>
+
+<annotation id="video:b304b51a-f32b-4a40-89b2-15a0ffa9ccff" style="merch" type="card" log_data="a-ch=UCSTXol20Q01Uj-U5Yp3IqFg&amp;link=https%3A%2F%2Fitunes.apple.com%2Fen%2Fapp%2Fkonkurs-chopinowski%2Fid978671305%3Fmt%3D8&amp;a-v=_xexvqseVMs&amp;a-type=66&amp;len-sec=10&amp;xble=0&amp;a-id=b304b51a-f32b-4a40-89b2-15a0ffa9ccff">
+  <data>{&quot;teaser_text&quot;:&quot;Download app&quot;,&quot;title&quot;:&quot;Chopin Competition&quot;,&quot;card_type&quot;:&quot;merch&quot;,&quot;tracking&quot;:{&quot;teaser_click&quot;:[],&quot;close&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[]},&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/proxy\/4fYw97JWh9I31BZy0k4166g9ZzRVZw9EQLz44y0wcTLDt-WzeBr8-EozAIz6FB3DmKW-CztB2Kc35x0xJPpurznSwtD-nS7iT7QLk-ZKYsO7JjojOsvpoYWUonNN2fZZiBKmOMwCWSnlBXeIo9aqSNnLTHhu=s300-c&quot;,&quot;display_domain&quot;:&quot;itunes.apple.com&quot;,&quot;sponsored&quot;:false,&quot;show_link_icon&quot;:true,&quot;start_ms&quot;:1,&quot;pause_on_navigation&quot;:true,&quot;teaser_duration_ms&quot;:5000,&quot;end_ms&quot;:1,&quot;target&quot;:&quot;new&quot;,&quot;custom_message&quot;:&quot;Download app&quot;,&quot;url&quot;:&quot;https:\/\/itunes.apple.com\/en\/app\/konkurs-chopinowski\/id978671305?mt=8&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://itunes.apple.com/en/app/konkurs-chopinowski/id978671305?mt=8"/>
+  </action>
+</annotation>
+
+<annotation id="video:5509fe13-28c7-4f0d-8c50-7bf19cdfbef6" style="playlist" type="card" log_data="a-ch=UCSTXol20Q01Uj-U5Yp3IqFg&amp;link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dl1MvMzYd104%26amp%3Blist%3DPLTmn2qD3aSQtY_jKToVC-YuQ-dgoPDn1X%26amp%3Bannotation_id%3D5509fe13-28c7-4f0d-8c50-7bf19cdfbef6%26amp%3Bfeature%3Dcards%26amp%3Bsrc_vid%3D_xexvqseVMs&amp;a-v=_xexvqseVMs&amp;a-type=63&amp;link-id=PLTmn2qD3aSQtY_jKToVC-YuQ-dgoPDn1X&amp;len-sec=10&amp;xble=0&amp;a-id=5509fe13-28c7-4f0d-8c50-7bf19cdfbef6">
+  <data>{&quot;teaser_text&quot;:&quot;Suggested: Chopin Competition 2015 \u2013 Preliminary Round Day 10&quot;,&quot;title&quot;:&quot;Chopin Competition 2015 \u2013 Preliminary Round Day 10&quot;,&quot;card_type&quot;:&quot;playlist&quot;,&quot;tracking&quot;:{&quot;teaser_click&quot;:[],&quot;close&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[]},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/l1MvMzYd104\/mqdefault.jpg&quot;,&quot;meta_info&quot;:[&quot;by Chopin Institute&quot;,&quot;14 videos&quot;],&quot;teaser_duration_ms&quot;:5000,&quot;start_ms&quot;:1587297,&quot;pause_on_navigation&quot;:true,&quot;end_ms&quot;:1587297,&quot;target&quot;:&quot;new&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=l1MvMzYd104\u0026list=PLTmn2qD3aSQtY_jKToVC-YuQ-dgoPDn1X\u0026annotation_id=5509fe13-28c7-4f0d-8c50-7bf19cdfbef6\u0026feature=cards\u0026src_vid=_xexvqseVMs&quot;,&quot;playlist_video_count&quot;:14}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=l1MvMzYd104&amp;list=PLTmn2qD3aSQtY_jKToVC-YuQ-dgoPDn1X&amp;annotation_id=5509fe13-28c7-4f0d-8c50-7bf19cdfbef6&amp;feature=cards&amp;src_vid=_xexvqseVMs"/>
+  </action>
+</annotation>
+</annotations></document>

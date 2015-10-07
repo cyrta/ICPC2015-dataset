@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations>
+<annotation id="annotation_1058654517" type="text" style="popup" log_data="a-type=1&amp;len-sec=1770&amp;a-id=annotation_1058654517&amp;a-v=rx3A_Y30JwA&amp;l-class=5&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCSTXol20Q01Uj-U5Yp3IqFg%3Fsub_confirmation%3D1">
+  <TEXT>Subscribe</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.79200" y="5.35200" w="17.63100" h="7.76200" t="0:03.401"/>
+      <rectRegion x="0.79200" y="5.35200" w="17.63100" h="7.76200" t="29:34.050"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14562356" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCSTXol20Q01Uj-U5Yp3IqFg?sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1628056997" type="text" style="popup" log_data="a-type=1&amp;len-sec=1773&amp;a-id=annotation_1628056997&amp;a-v=rx3A_Y30JwA&amp;l-class=7&amp;xble=1&amp;link=https%3A%2F%2Fitunes.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewRoom%3FfcId%3D992604709%26genreIdString%3D5%26mediaTypeString%3DMusic%3Fapp%3Ditunes">
+  <TEXT>Buy albums on iTunes</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="22.74200" y="6.16700" w="30.00000" h="8.88900" t="0:00.774"/>
+      <rectRegion x="22.74200" y="6.16700" w="30.00000" h="8.88900" t="29:34.050"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="16777215" fgColor="0" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewRoom?fcId=992604709&amp;genreIdString=5&amp;mediaTypeString=Music?app=itunes" link_class="7"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:5515685e-0000-25c2-8a26-001a11403a92" style="branding" type="branding"
+            log_data="a-type=10&amp;a-v=rx3A_Y30JwA&amp;len-sec=1775&amp;a-ch=UCSTXol20Q01Uj-U5Yp3IqFg&amp;a-id=5515685e-0000-25c2-8a26-001a11403a92&amp;xble=0&amp;link-id=UCSTXol20Q01Uj-U5Yp3IqFg&amp;img-type=1">
+  <data>{&quot;channel_name&quot;:&quot;Chopin Institute&quot;,&quot;num_subscribers&quot;:&quot;12,914 subscribers&quot;,&quot;image_width&quot;:40,&quot;end_ms&quot;:1775000,&quot;image_height&quot;:40,&quot;start_ms&quot;:0,&quot;image_type&quot;:1,&quot;channel_id&quot;:&quot;UCSTXol20Q01Uj-U5Yp3IqFg&quot;,&quot;subscription_token&quot;:&quot;&quot;,&quot;is_mobile&quot;:false,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/STXol20Q01Uj-U5Yp3IqFg\/featured_channel.jpg?v=551a6e64&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UCSTXol20Q01Uj-U5Yp3IqFg?feature=iv&amp;src_vid=rx3A_Y30JwA&amp;annotation_id=5515685e-0000-25c2-8a26-001a11403a92"/>
+  </action>
+  <html_blob>
+    
+  </html_blob>
+</annotation>
+
+<annotation id="video:b814c381-d9a4-4409-9b48-d5a71db8458f" style="merch" type="card" log_data="a-type=66&amp;len-sec=10&amp;a-id=b814c381-d9a4-4409-9b48-d5a71db8458f&amp;a-v=rx3A_Y30JwA&amp;xble=0&amp;a-ch=UCSTXol20Q01Uj-U5Yp3IqFg&amp;link=https%3A%2F%2Fitunes.apple.com%2Fpl%2Fapp%2Fkonkurs-chopinowski%2Fid978671305%3Fmt%3D8">
+  <data>{&quot;show_link_icon&quot;:true,&quot;display_domain&quot;:&quot;itunes.apple.com&quot;,&quot;pause_on_navigation&quot;:true,&quot;teaser_text&quot;:&quot;Download app&quot;,&quot;end_ms&quot;:1,&quot;start_ms&quot;:1,&quot;sponsored&quot;:false,&quot;target&quot;:&quot;new&quot;,&quot;title&quot;:&quot;Chopin Competition&quot;,&quot;card_type&quot;:&quot;merch&quot;,&quot;teaser_duration_ms&quot;:5000,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/proxy\/NrUeaZxxh8JcMRkAqC2XB2lXAuEmdJwaYhKGQ3ieDZ4rQ7vqQ7F6ZHKpF3JfazfT8aGJw5aznRtXTvGUnT3l1SdKm7SmdhV9igo7ovLPIWrr1SI_Xcp5Ki6N0kGPkn_3rCwmQ57ejo8yXJou92q4nnyngaE=s300-c&quot;,&quot;url&quot;:&quot;https:\/\/itunes.apple.com\/pl\/app\/konkurs-chopinowski\/id978671305?mt=8&quot;,&quot;custom_message&quot;:&quot;Download app&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;close&quot;:[]}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://itunes.apple.com/pl/app/konkurs-chopinowski/id978671305?mt=8"/>
+  </action>
+</annotation>
+
+<annotation id="video:3ee3361b-6633-419b-ac79-7aa306ae83b7" style="merch" type="card" log_data="a-type=66&amp;len-sec=10&amp;a-id=3ee3361b-6633-419b-ac79-7aa306ae83b7&amp;a-v=rx3A_Y30JwA&amp;xble=0&amp;a-ch=UCSTXol20Q01Uj-U5Yp3IqFg&amp;link=https%3A%2F%2Fitunes.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewRoom%3FfcId%3D992604709%26genreIdString%3D5%26mediaTypeString%3DMusic%3Fapp%3Ditunes">
+  <data>{&quot;show_link_icon&quot;:true,&quot;display_domain&quot;:&quot;itunes.apple.com&quot;,&quot;pause_on_navigation&quot;:true,&quot;teaser_text&quot;:&quot;Buy albums on iTunes&quot;,&quot;end_ms&quot;:1,&quot;start_ms&quot;:1,&quot;sponsored&quot;:false,&quot;target&quot;:&quot;new&quot;,&quot;title&quot;:&quot;Buy albums on iTunes&quot;,&quot;card_type&quot;:&quot;merch&quot;,&quot;teaser_duration_ms&quot;:5000,&quot;timestamp&quot;:1443791548810,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/rx3A_Y30JwA\/3ee3361b-6633-419b-ac79-7aa306ae83b7_mq.jpg?v=560e82bc&quot;,&quot;url&quot;:&quot;https:\/\/itunes.apple.com\/WebObjects\/MZStore.woa\/wa\/viewRoom?fcId=992604709\u0026genreIdString=5\u0026mediaTypeString=Music?app=itunes&quot;,&quot;custom_message&quot;:&quot;iTunes&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;close&quot;:[]}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewRoom?fcId=992604709&amp;genreIdString=5&amp;mediaTypeString=Music?app=itunes"/>
+  </action>
+</annotation>
+
+<annotation id="video:e6779e6f-f12b-485b-a553-38a5b61e9689" style="playlist" type="card" log_data="a-type=63&amp;len-sec=10&amp;a-id=e6779e6f-f12b-485b-a553-38a5b61e9689&amp;a-v=rx3A_Y30JwA&amp;link-id=PLTmn2qD3aSQuwKwydfs9MBlcwFEj-7Uy9&amp;xble=0&amp;a-ch=UCSTXol20Q01Uj-U5Yp3IqFg&amp;link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dwwvmz1CyNX8%26amp%3Blist%3DPLTmn2qD3aSQuwKwydfs9MBlcwFEj-7Uy9%26amp%3Bfeature%3Dcards%26amp%3Bsrc_vid%3Drx3A_Y30JwA%26amp%3Bannotation_id%3De6779e6f-f12b-485b-a553-38a5b61e9689">
+  <data>{&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;close&quot;:[]},&quot;pause_on_navigation&quot;:true,&quot;teaser_text&quot;:&quot;Suggested: Chopin Competition 2015 \u2013 Preliminary Round Day 1&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/wwvmz1CyNX8\/mqdefault.jpg&quot;,&quot;end_ms&quot;:1645495,&quot;meta_info&quot;:[&quot;by Chopin Institute&quot;,&quot;14 videos&quot;],&quot;card_type&quot;:&quot;playlist&quot;,&quot;target&quot;:&quot;new&quot;,&quot;title&quot;:&quot;Chopin Competition 2015 \u2013 Preliminary Round Day 1&quot;,&quot;teaser_duration_ms&quot;:5000,&quot;playlist_video_count&quot;:14,&quot;start_ms&quot;:1645495,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=wwvmz1CyNX8\u0026list=PLTmn2qD3aSQuwKwydfs9MBlcwFEj-7Uy9\u0026feature=cards\u0026src_vid=rx3A_Y30JwA\u0026annotation_id=e6779e6f-f12b-485b-a553-38a5b61e9689&quot;,&quot;custom_message&quot;:&quot;&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=wwvmz1CyNX8&amp;list=PLTmn2qD3aSQuwKwydfs9MBlcwFEj-7Uy9&amp;feature=cards&amp;src_vid=rx3A_Y30JwA&amp;annotation_id=e6779e6f-f12b-485b-a553-38a5b61e9689"/>
+  </action>
+</annotation>
+</annotations></document>

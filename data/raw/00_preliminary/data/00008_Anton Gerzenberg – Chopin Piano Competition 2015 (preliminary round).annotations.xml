@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations>
+<annotation id="annotation_2487004781" type="text" style="popup" log_data="a-id=annotation_2487004781&amp;len-sec=1908&amp;a-type=1&amp;a-v=r_E9ZoVnJNs&amp;link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCSTXol20Q01Uj-U5Yp3IqFg%3Fsub_confirmation%3D1&amp;xble=1&amp;l-class=5">
+  <TEXT>Subscribe</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.79200" y="3.09900" w="17.94800" h="8.60600" t="0:01.349"/>
+      <rectRegion x="0.79200" y="3.09900" w="17.94800" h="8.60600" t="31:50.050"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14562356" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCSTXol20Q01Uj-U5Yp3IqFg?sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:5515685e-0000-25c2-8a26-001a11403a92" style="branding" type="branding"
+            log_data="a-id=5515685e-0000-25c2-8a26-001a11403a92&amp;link-id=UCSTXol20Q01Uj-U5Yp3IqFg&amp;a-ch=UCSTXol20Q01Uj-U5Yp3IqFg&amp;len-sec=1911&amp;a-type=10&amp;a-v=r_E9ZoVnJNs&amp;img-type=1&amp;xble=0">
+  <data>{&quot;image_width&quot;:40,&quot;num_subscribers&quot;:&quot;12,914 subscribers&quot;,&quot;channel_name&quot;:&quot;Chopin Institute&quot;,&quot;start_ms&quot;:0,&quot;image_height&quot;:40,&quot;end_ms&quot;:1911000,&quot;is_mobile&quot;:false,&quot;subscription_token&quot;:&quot;&quot;,&quot;image_type&quot;:1,&quot;channel_id&quot;:&quot;UCSTXol20Q01Uj-U5Yp3IqFg&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/STXol20Q01Uj-U5Yp3IqFg\/featured_channel.jpg?v=551a6e64&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UCSTXol20Q01Uj-U5Yp3IqFg?src_vid=r_E9ZoVnJNs&amp;feature=iv&amp;annotation_id=5515685e-0000-25c2-8a26-001a11403a92"/>
+  </action>
+  <html_blob>
+    
+  </html_blob>
+</annotation>
+
+<annotation id="video:7febb13a-cf10-44aa-95f8-f957eec5bfda" style="merch" type="card" log_data="a-id=7febb13a-cf10-44aa-95f8-f957eec5bfda&amp;len-sec=10&amp;a-type=66&amp;a-v=r_E9ZoVnJNs&amp;xble=0&amp;link=https%3A%2F%2Fitunes.apple.com%2Fpl%2Fapp%2Fkonkurs-chopinowski%2Fid978671305%3Fmt%3D8&amp;a-ch=UCSTXol20Q01Uj-U5Yp3IqFg">
+  <data>{&quot;teaser_text&quot;:&quot;Download app&quot;,&quot;pause_on_navigation&quot;:true,&quot;display_domain&quot;:&quot;itunes.apple.com&quot;,&quot;show_link_icon&quot;:true,&quot;target&quot;:&quot;new&quot;,&quot;sponsored&quot;:false,&quot;start_ms&quot;:1,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;end_ms&quot;:1,&quot;teaser_duration_ms&quot;:5000,&quot;title&quot;:&quot;Chopin Competition&quot;,&quot;card_type&quot;:&quot;merch&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/proxy\/PKtkou28N3NTFJaxQmn6vmXVZ5S-PeadKp-LzzAu8ZcA7JqNR-ACbYulDr7iSNjIdWJE-ytF-aWci8_c-ug4JOvVC9xtLTcQHLT4-v-YMrcpj6vbCC9Ub2iUMVKaZQrAbnHyuJDSL_6PkmGMNy-icpZTToSU=s300-c&quot;,&quot;custom_message&quot;:&quot;Download app&quot;,&quot;url&quot;:&quot;https:\/\/itunes.apple.com\/pl\/app\/konkurs-chopinowski\/id978671305?mt=8&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://itunes.apple.com/pl/app/konkurs-chopinowski/id978671305?mt=8"/>
+  </action>
+</annotation>
+
+<annotation id="video:306699e5-3536-419f-91df-3f8fea5085c8" style="playlist" type="card" log_data="a-id=306699e5-3536-419f-91df-3f8fea5085c8&amp;link-id=PLTmn2qD3aSQuwKwydfs9MBlcwFEj-7Uy9&amp;len-sec=10&amp;a-type=63&amp;a-v=r_E9ZoVnJNs&amp;xble=0&amp;link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dwwvmz1CyNX8%26amp%3Blist%3DPLTmn2qD3aSQuwKwydfs9MBlcwFEj-7Uy9%26amp%3Bsrc_vid%3Dr_E9ZoVnJNs%26amp%3Bfeature%3Dcards%26amp%3Bannotation_id%3D306699e5-3536-419f-91df-3f8fea5085c8&amp;a-ch=UCSTXol20Q01Uj-U5Yp3IqFg">
+  <data>{&quot;teaser_text&quot;:&quot;Suggested: Chopin Competition 2015 \u2013 Preliminary Round Day 1&quot;,&quot;pause_on_navigation&quot;:true,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;target&quot;:&quot;new&quot;,&quot;card_type&quot;:&quot;playlist&quot;,&quot;start_ms&quot;:1801743,&quot;end_ms&quot;:1801743,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/wwvmz1CyNX8\/mqdefault.jpg&quot;,&quot;teaser_duration_ms&quot;:5000,&quot;title&quot;:&quot;Chopin Competition 2015 \u2013 Preliminary Round Day 1&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=wwvmz1CyNX8\u0026list=PLTmn2qD3aSQuwKwydfs9MBlcwFEj-7Uy9\u0026src_vid=r_E9ZoVnJNs\u0026feature=cards\u0026annotation_id=306699e5-3536-419f-91df-3f8fea5085c8&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;meta_info&quot;:[&quot;by Chopin Institute&quot;,&quot;14 videos&quot;],&quot;playlist_video_count&quot;:14}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=wwvmz1CyNX8&amp;list=PLTmn2qD3aSQuwKwydfs9MBlcwFEj-7Uy9&amp;src_vid=r_E9ZoVnJNs&amp;feature=cards&amp;annotation_id=306699e5-3536-419f-91df-3f8fea5085c8"/>
+  </action>
+</annotation>
+</annotations></document>

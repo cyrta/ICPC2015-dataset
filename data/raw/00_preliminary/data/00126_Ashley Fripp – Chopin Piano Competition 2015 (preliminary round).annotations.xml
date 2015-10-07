@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations>
+<annotation id="channel:5515685e-0000-25c2-8a26-001a11403a92" style="branding" type="branding"
+            log_data="len-sec=1657&amp;a-id=5515685e-0000-25c2-8a26-001a11403a92&amp;a-v=5NTVRibaTqQ&amp;a-type=10&amp;img-type=1&amp;a-ch=UCSTXol20Q01Uj-U5Yp3IqFg&amp;xble=0&amp;link-id=UCSTXol20Q01Uj-U5Yp3IqFg">
+  <data>{&quot;num_subscribers&quot;:&quot;12,914 subscribers&quot;,&quot;image_width&quot;:40,&quot;channel_name&quot;:&quot;Chopin Institute&quot;,&quot;channel_id&quot;:&quot;UCSTXol20Q01Uj-U5Yp3IqFg&quot;,&quot;image_height&quot;:40,&quot;end_ms&quot;:1657000,&quot;subscription_token&quot;:&quot;&quot;,&quot;start_ms&quot;:0,&quot;is_mobile&quot;:false,&quot;image_type&quot;:1,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/STXol20Q01Uj-U5Yp3IqFg\/featured_channel.jpg?v=551a6e64&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UCSTXol20Q01Uj-U5Yp3IqFg?annotation_id=5515685e-0000-25c2-8a26-001a11403a92&amp;src_vid=5NTVRibaTqQ&amp;feature=iv"/>
+  </action>
+  <html_blob>
+    
+  </html_blob>
+</annotation>
+
+<annotation id="video:1ca0960c-0f60-4fcc-8723-57b32b076e76" style="merch" type="card" log_data="len-sec=10&amp;a-id=1ca0960c-0f60-4fcc-8723-57b32b076e76&amp;a-type=66&amp;xble=0&amp;a-v=5NTVRibaTqQ&amp;a-ch=UCSTXol20Q01Uj-U5Yp3IqFg&amp;link=https%3A%2F%2Fitunes.apple.com%2Fen%2Fapp%2Fkonkurs-chopinowski%2Fid978671305%3Fmt%3D8">
+  <data>{&quot;display_domain&quot;:&quot;itunes.apple.com&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;teaser_text&quot;:&quot;Download app&quot;,&quot;pause_on_navigation&quot;:true,&quot;sponsored&quot;:false,&quot;start_ms&quot;:214839,&quot;target&quot;:&quot;new&quot;,&quot;card_type&quot;:&quot;merch&quot;,&quot;end_ms&quot;:214839,&quot;show_link_icon&quot;:true,&quot;title&quot;:&quot;Chopin Competition&quot;,&quot;custom_message&quot;:&quot;Download app&quot;,&quot;url&quot;:&quot;https:\/\/itunes.apple.com\/en\/app\/konkurs-chopinowski\/id978671305?mt=8&quot;,&quot;teaser_duration_ms&quot;:5000,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/proxy\/pMhIb0MYoHT_eER-W9xJmtKEs3Pb1r25wR9s_8uzx8i0-uKn__VBLAiZIOJn_yZySFlUBRD0tblnxNftX3hWENYjopZu9R-H8_iE38rFhoOB35IAgOJwET0SdHW1QitRaq67KmZOnSMw0oVUEzoCTS9MLYY=s300-c&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://itunes.apple.com/en/app/konkurs-chopinowski/id978671305?mt=8"/>
+  </action>
+</annotation>
+</annotations></document>
