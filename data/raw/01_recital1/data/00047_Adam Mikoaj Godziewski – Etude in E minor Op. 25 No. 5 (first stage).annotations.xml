@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations>
+<annotation id="channel:5515685e-0000-25c2-8a26-001a11403a92" style="branding" type="branding"
+            log_data="xble=0&amp;a-ch=UCSTXol20Q01Uj-U5Yp3IqFg&amp;len-sec=223&amp;a-v=YGvRQhrqdP4&amp;link-id=UCSTXol20Q01Uj-U5Yp3IqFg&amp;img-type=1&amp;a-id=5515685e-0000-25c2-8a26-001a11403a92&amp;a-type=10">
+  <data>{&quot;start_ms&quot;:0,&quot;is_mobile&quot;:false,&quot;image_height&quot;:40,&quot;channel_id&quot;:&quot;UCSTXol20Q01Uj-U5Yp3IqFg&quot;,&quot;channel_name&quot;:&quot;Chopin Institute&quot;,&quot;num_subscribers&quot;:&quot;17,681 subscribers&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/STXol20Q01Uj-U5Yp3IqFg\/featured_channel.jpg?v=551a6e64&quot;,&quot;subscription_token&quot;:&quot;&quot;,&quot;image_width&quot;:40,&quot;end_ms&quot;:223000,&quot;image_type&quot;:1}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UCSTXol20Q01Uj-U5Yp3IqFg?feature=iv&amp;annotation_id=5515685e-0000-25c2-8a26-001a11403a92&amp;src_vid=YGvRQhrqdP4"/>
+  </action>
+  <html_blob>
+    
+  </html_blob>
+</annotation>
+
+<annotation id="channel:5529bb8c-0000-221d-87f5-001a113e38f2" style="playlist" type="promotion"
+            log_data="xble=1&amp;a-ch=UCSTXol20Q01Uj-U5Yp3IqFg&amp;len-sec=10&amp;a-v=YGvRQhrqdP4&amp;link-id=PLTmn2qD3aSQuKEzTQr8vFzf8B_fHXiQYW&amp;msg=0&amp;a-id=5529bb8c-0000-221d-87f5-001a113e38f2&amp;a-type=12">
+  <data>{&quot;start_ms&quot;:213000,&quot;playlist_length&quot;:77,&quot;is_mobile&quot;:false,&quot;text_line_2&quot;:&quot;Chopin Competition 2015 \u2013 pianists qualified in Preliminary Round&quot;,&quot;text_line_1&quot;:&quot;Suggested by Chopin Institute&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/JFYzmYLEHtA\/mqdefault.jpg&quot;,&quot;end_ms&quot;:223000,&quot;collapse_delay_ms&quot;:86400000}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=JFYzmYLEHtA&amp;list=PLTmn2qD3aSQuKEzTQr8vFzf8B_fHXiQYW&amp;feature=iv&amp;annotation_id=5529bb8c-0000-221d-87f5-001a113e38f2&amp;src_vid=YGvRQhrqdP4"/>
+  </action>
+</annotation>
+</annotations></document>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations>
+<annotation id="annotation_2479597225" type="text" style="popup" log_data="a-type=1&amp;link=https%3A%2F%2Fitunes.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewRoom%3FfcId%3D992604709%26genreIdString%3D5%26mediaTypeString%3DMusic%3Fapp%3Ditunes&amp;a-v=JjfDpGXMSxM&amp;l-class=7&amp;xble=1&amp;len-sec=227&amp;a-id=annotation_2479597225">
+  <TEXT>Buy albums on iTunes</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="1.10900" y="3.38000" w="27.93300" h="7.75400" t="0:00.000"/>
+      <rectRegion x="1.10900" y="3.38000" w="27.93300" h="7.75400" t="3:47.903"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="16777215" fgColor="0" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewRoom?fcId=992604709&amp;genreIdString=5&amp;mediaTypeString=Music?app=itunes" link_class="7"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3484306019" type="text" style="popup" log_data="a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCSTXol20Q01Uj-U5Yp3IqFg%3Fsub_confirmation%3D1&amp;a-v=JjfDpGXMSxM&amp;l-class=5&amp;xble=1&amp;len-sec=227&amp;a-id=annotation_3484306019">
+  <TEXT>Subscribe</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="29.63500" y="3.66200" w="16.05400" h="7.47900" t="0:00.000"/>
+      <rectRegion x="29.63500" y="3.66200" w="16.05400" h="7.47900" t="3:47.903"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="16777215" fgColor="0" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCSTXol20Q01Uj-U5Yp3IqFg?sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:5515685e-0000-25c2-8a26-001a11403a92" style="branding" type="branding"
+            log_data="a-ch=UCSTXol20Q01Uj-U5Yp3IqFg&amp;xble=0&amp;a-type=10&amp;link-id=UCSTXol20Q01Uj-U5Yp3IqFg&amp;len-sec=228&amp;a-id=5515685e-0000-25c2-8a26-001a11403a92&amp;img-type=1&amp;a-v=JjfDpGXMSxM">
+  <data>{&quot;image_height&quot;:40,&quot;channel_name&quot;:&quot;Chopin Institute&quot;,&quot;image_type&quot;:1,&quot;is_mobile&quot;:false,&quot;image_width&quot;:40,&quot;channel_id&quot;:&quot;UCSTXol20Q01Uj-U5Yp3IqFg&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/STXol20Q01Uj-U5Yp3IqFg\/featured_channel.jpg?v=551a6e64&quot;,&quot;end_ms&quot;:228000,&quot;subscription_token&quot;:&quot;&quot;,&quot;num_subscribers&quot;:&quot;17,681 subscribers&quot;,&quot;start_ms&quot;:0}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UCSTXol20Q01Uj-U5Yp3IqFg?annotation_id=5515685e-0000-25c2-8a26-001a11403a92&amp;feature=iv&amp;src_vid=JjfDpGXMSxM"/>
+  </action>
+  <html_blob>
+    
+  </html_blob>
+</annotation>
+
+<annotation id="video:8fc630cd-6c8a-4c3c-9a2a-b137053ce1f8" style="merch" type="card" log_data="a-type=66&amp;link=https%3A%2F%2Fitunes.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewRoom%3FfcId%3D992604709%26genreIdString%3D5%26mediaTypeString%3DMusic%3Fapp%3Ditunes&amp;a-v=JjfDpGXMSxM&amp;a-ch=UCSTXol20Q01Uj-U5Yp3IqFg&amp;xble=0&amp;len-sec=10&amp;a-id=8fc630cd-6c8a-4c3c-9a2a-b137053ce1f8">
+  <data>{&quot;card_type&quot;:&quot;merch&quot;,&quot;tracking&quot;:{&quot;teaser_impression&quot;:[],&quot;click&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[]},&quot;url&quot;:&quot;https:\/\/itunes.apple.com\/WebObjects\/MZStore.woa\/wa\/viewRoom?fcId=992604709\u0026genreIdString=5\u0026mediaTypeString=Music?app=itunes&quot;,&quot;title&quot;:&quot;Buy albums on iTunes&quot;,&quot;timestamp&quot;:1444050974600,&quot;teaser_duration_ms&quot;:5000,&quot;sponsored&quot;:false,&quot;teaser_text&quot;:&quot;Buy albums on iTunes&quot;,&quot;show_link_icon&quot;:true,&quot;display_domain&quot;:&quot;itunes.apple.com&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/JjfDpGXMSxM\/8fc630cd-6c8a-4c3c-9a2a-b137053ce1f8_mq.jpg?v=5612781e&quot;,&quot;custom_message&quot;:&quot;iTunes&quot;,&quot;pause_on_navigation&quot;:true,&quot;end_ms&quot;:381,&quot;target&quot;:&quot;new&quot;,&quot;start_ms&quot;:381}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewRoom?fcId=992604709&amp;genreIdString=5&amp;mediaTypeString=Music?app=itunes"/>
+  </action>
+</annotation>
+
+<annotation id="video:2a33f24f-8e2f-4da7-9947-712593354243" style="playlist" type="card" log_data="link-id=PLTmn2qD3aSQseoFVhcmBsi3m7hDGeU5ml&amp;a-type=63&amp;link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0FJYuIamGgo%26amp%3Blist%3DPLTmn2qD3aSQseoFVhcmBsi3m7hDGeU5ml%26amp%3Bannotation_id%3D2a33f24f-8e2f-4da7-9947-712593354243%26amp%3Bfeature%3Dcards%26amp%3Bsrc_vid%3DJjfDpGXMSxM&amp;a-v=JjfDpGXMSxM&amp;a-ch=UCSTXol20Q01Uj-U5Yp3IqFg&amp;xble=0&amp;len-sec=10&amp;a-id=2a33f24f-8e2f-4da7-9947-712593354243">
+  <data>{&quot;card_type&quot;:&quot;playlist&quot;,&quot;tracking&quot;:{&quot;teaser_impression&quot;:[],&quot;click&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[]},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=0FJYuIamGgo\u0026list=PLTmn2qD3aSQseoFVhcmBsi3m7hDGeU5ml\u0026annotation_id=2a33f24f-8e2f-4da7-9947-712593354243\u0026feature=cards\u0026src_vid=JjfDpGXMSxM&quot;,&quot;title&quot;:&quot;Stage I of the 17th International Fryderyk Chopin Piano Competition&quot;,&quot;timestamp&quot;:1444051040423,&quot;teaser_duration_ms&quot;:5000,&quot;meta_info&quot;:[&quot;by Chopin Institute&quot;,&quot;312 videos&quot;],&quot;teaser_text&quot;:&quot;Suggested: Stage I of the 17th International Fryderyk Chopin Piano Competition&quot;,&quot;target&quot;:&quot;new&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/0FJYuIamGgo\/mqdefault.jpg&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;pause_on_navigation&quot;:true,&quot;end_ms&quot;:199559,&quot;playlist_video_count&quot;:312,&quot;start_ms&quot;:199559}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=0FJYuIamGgo&amp;list=PLTmn2qD3aSQseoFVhcmBsi3m7hDGeU5ml&amp;annotation_id=2a33f24f-8e2f-4da7-9947-712593354243&amp;feature=cards&amp;src_vid=JjfDpGXMSxM"/>
+  </action>
+</annotation>
+</annotations></document>

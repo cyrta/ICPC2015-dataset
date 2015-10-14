@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations>
+<annotation id="annotation_2603129935" type="text" style="popup" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCSTXol20Q01Uj-U5Yp3IqFg%3Fsub_confirmation%3D1&amp;len-sec=133&amp;a-id=annotation_2603129935&amp;a-type=1&amp;l-class=5&amp;a-v=HiXxq63tHy0">
+  <TEXT>Subscribe</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.87500" y="4.94400" w="15.64100" h="8.88800" t="0:00.000"/>
+      <rectRegion x="2.87500" y="4.94400" w="15.64100" h="8.88800" t="2:13.654"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="16777215" fgColor="0" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCSTXol20Q01Uj-U5Yp3IqFg?sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2820776257" type="text" style="popup" log_data="len-sec=133&amp;a-id=annotation_2820776257&amp;xble=1&amp;a-type=1&amp;a-v=HiXxq63tHy0">
+  <TEXT>Buy albums on iTunes</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="20.32800" y="4.93100" w="30.00000" h="8.88900" t="0:00.000"/>
+      <rectRegion x="20.32800" y="4.93100" w="30.00000" h="8.88900" t="2:13.654"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="16777215" fgColor="0" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+
+<annotation id="channel:5515685e-0000-25c2-8a26-001a11403a92" style="branding" type="branding"
+            log_data="len-sec=134&amp;a-id=5515685e-0000-25c2-8a26-001a11403a92&amp;xble=0&amp;a-type=10&amp;img-type=1&amp;link-id=UCSTXol20Q01Uj-U5Yp3IqFg&amp;a-ch=UCSTXol20Q01Uj-U5Yp3IqFg&amp;a-v=HiXxq63tHy0">
+  <data>{&quot;subscription_token&quot;:&quot;&quot;,&quot;image_type&quot;:1,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/STXol20Q01Uj-U5Yp3IqFg\/featured_channel.jpg?v=551a6e64&quot;,&quot;start_ms&quot;:0,&quot;is_mobile&quot;:false,&quot;channel_id&quot;:&quot;UCSTXol20Q01Uj-U5Yp3IqFg&quot;,&quot;end_ms&quot;:134000,&quot;image_height&quot;:40,&quot;num_subscribers&quot;:&quot;17,708 subscribers&quot;,&quot;image_width&quot;:40,&quot;channel_name&quot;:&quot;Chopin Institute&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UCSTXol20Q01Uj-U5Yp3IqFg?annotation_id=5515685e-0000-25c2-8a26-001a11403a92&amp;src_vid=HiXxq63tHy0&amp;feature=iv"/>
+  </action>
+  <html_blob>
+    
+  </html_blob>
+</annotation>
+
+<annotation id="video:2f6ccdc5-03b9-4f53-85b6-04010738c653" style="merch" type="card" log_data="xble=0&amp;link=https%3A%2F%2Fitunes.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewRoom%3FfcId%3D992604709%26genreIdString%3D5%26mediaTypeString%3DMusic%3Fapp%3Ditunes&amp;len-sec=10&amp;a-id=2f6ccdc5-03b9-4f53-85b6-04010738c653&amp;a-type=66&amp;a-ch=UCSTXol20Q01Uj-U5Yp3IqFg&amp;a-v=HiXxq63tHy0">
+  <data>{&quot;tracking&quot;:{&quot;click&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[]},&quot;show_link_icon&quot;:true,&quot;target&quot;:&quot;new&quot;,&quot;title&quot;:&quot;Buy albums on iTunes&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/HiXxq63tHy0\/2f6ccdc5-03b9-4f53-85b6-04010738c653_mq.jpg?v=561635e8&quot;,&quot;start_ms&quot;:1,&quot;display_domain&quot;:&quot;itunes.apple.com&quot;,&quot;teaser_text&quot;:&quot;Buy albums on iTunes&quot;,&quot;sponsored&quot;:false,&quot;end_ms&quot;:1,&quot;custom_message&quot;:&quot;iTunes&quot;,&quot;teaser_duration_ms&quot;:5000,&quot;url&quot;:&quot;https:\/\/itunes.apple.com\/WebObjects\/MZStore.woa\/wa\/viewRoom?fcId=992604709\u0026genreIdString=5\u0026mediaTypeString=Music?app=itunes&quot;,&quot;card_type&quot;:&quot;merch&quot;,&quot;timestamp&quot;:1444296169157,&quot;pause_on_navigation&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewRoom?fcId=992604709&amp;genreIdString=5&amp;mediaTypeString=Music?app=itunes"/>
+  </action>
+</annotation>
+</annotations></document>

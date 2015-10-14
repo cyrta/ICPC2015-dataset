@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations>
+<annotation id="annotation_1764439337" type="text" style="popup" log_data="a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCSTXol20Q01Uj-U5Yp3IqFg%3Fsub_confirmation%3D1&amp;a-v=9ChJUibOgO4&amp;xble=1&amp;l-class=5&amp;a-id=annotation_1764439337&amp;len-sec=541">
+  <TEXT>Subscribe</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.62500" y="5.55600" w="16.18000" h="8.88800" t="0:00.920"/>
+      <rectRegion x="5.62500" y="5.55600" w="16.18000" h="8.88800" t="9:02.534"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="16777215" fgColor="0" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCSTXol20Q01Uj-U5Yp3IqFg?sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_189660375" type="text" style="popup" log_data="a-type=1&amp;link=https%3A%2F%2Fitunes.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewRoom%3FfcId%3D992604709%26genreIdString%3D5%26mediaTypeString%3DMusic%3Fapp%3Ditunes&amp;a-v=9ChJUibOgO4&amp;xble=1&amp;l-class=7&amp;a-id=annotation_189660375&amp;len-sec=541">
+  <TEXT>Buy albums on iTunes</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="24.80500" y="5.55600" w="30.00000" h="8.88900" t="0:00.920"/>
+      <rectRegion x="24.80500" y="5.55600" w="30.00000" h="8.88900" t="9:02.534"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="16777215" fgColor="0" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewRoom?fcId=992604709&amp;genreIdString=5&amp;mediaTypeString=Music?app=itunes" link_class="7"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:5515685e-0000-25c2-8a26-001a11403a92" style="branding" type="branding"
+            log_data="a-v=9ChJUibOgO4&amp;a-type=10&amp;link-id=UCSTXol20Q01Uj-U5Yp3IqFg&amp;img-type=1&amp;xble=0&amp;a-id=5515685e-0000-25c2-8a26-001a11403a92&amp;len-sec=543&amp;a-ch=UCSTXol20Q01Uj-U5Yp3IqFg">
+  <data>{&quot;num_subscribers&quot;:&quot;17,681 subscribers&quot;,&quot;end_ms&quot;:543000,&quot;image_width&quot;:40,&quot;is_mobile&quot;:false,&quot;channel_name&quot;:&quot;Chopin Institute&quot;,&quot;image_height&quot;:40,&quot;image_type&quot;:1,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/STXol20Q01Uj-U5Yp3IqFg\/featured_channel.jpg?v=551a6e64&quot;,&quot;channel_id&quot;:&quot;UCSTXol20Q01Uj-U5Yp3IqFg&quot;,&quot;start_ms&quot;:0,&quot;subscription_token&quot;:&quot;&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UCSTXol20Q01Uj-U5Yp3IqFg?src_vid=9ChJUibOgO4&amp;feature=iv&amp;annotation_id=5515685e-0000-25c2-8a26-001a11403a92"/>
+  </action>
+  <html_blob>
+    
+  </html_blob>
+</annotation>
+
+<annotation id="video:baf7e875-1318-4b2c-b5f5-bdbbbec9c550" style="merch" type="card" log_data="a-type=66&amp;link=https%3A%2F%2Fitunes.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewRoom%3FfcId%3D992604709%26genreIdString%3D5%26mediaTypeString%3DMusic%3Fapp%3Ditunes&amp;a-ch=UCSTXol20Q01Uj-U5Yp3IqFg&amp;a-v=9ChJUibOgO4&amp;xble=0&amp;a-id=baf7e875-1318-4b2c-b5f5-bdbbbec9c550&amp;len-sec=10">
+  <data>{&quot;target&quot;:&quot;new&quot;,&quot;show_link_icon&quot;:true,&quot;sponsored&quot;:false,&quot;timestamp&quot;:1444398929718,&quot;start_ms&quot;:7338,&quot;display_domain&quot;:&quot;itunes.apple.com&quot;,&quot;pause_on_navigation&quot;:true,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/9ChJUibOgO4\/baf7e875-1318-4b2c-b5f5-bdbbbec9c550_mq.jpg?v=5617c751&quot;,&quot;title&quot;:&quot;Buy albums on iTunes&quot;,&quot;end_ms&quot;:7338,&quot;tracking&quot;:{&quot;teaser_click&quot;:[],&quot;close&quot;:[],&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;card_type&quot;:&quot;merch&quot;,&quot;teaser_text&quot;:&quot;Buy albums on iTunes&quot;,&quot;url&quot;:&quot;https:\/\/itunes.apple.com\/WebObjects\/MZStore.woa\/wa\/viewRoom?fcId=992604709\u0026genreIdString=5\u0026mediaTypeString=Music?app=itunes&quot;,&quot;teaser_duration_ms&quot;:5000,&quot;custom_message&quot;:&quot;iTunes&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewRoom?fcId=992604709&amp;genreIdString=5&amp;mediaTypeString=Music?app=itunes"/>
+  </action>
+</annotation>
+</annotations></document>

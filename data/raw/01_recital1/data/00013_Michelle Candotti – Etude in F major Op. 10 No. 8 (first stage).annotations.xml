@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations>
+<annotation id="annotation_3145285051" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCSTXol20Q01Uj-U5Yp3IqFg%3Fsub_confirmation%3D1&amp;a-v=u5Sfz0nt3NI&amp;xble=1&amp;a-id=annotation_3145285051&amp;len-sec=142&amp;a-type=1&amp;l-class=5">
+  <TEXT>Subscribe</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="29.31900" y="3.66200" w="15.72900" h="7.47900" t="0:00.000"/>
+      <rectRegion x="29.31900" y="3.66200" w="15.72900" h="7.47900" t="2:22.825"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="16777215" fgColor="0" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCSTXol20Q01Uj-U5Yp3IqFg?sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3311197927" type="text" style="popup" log_data="link=https%3A%2F%2Fitunes.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewRoom%3FfcId%3D992604709%26genreIdString%3D5%26mediaTypeString%3DMusic%3Fapp%3Ditunes&amp;a-v=u5Sfz0nt3NI&amp;xble=1&amp;a-id=annotation_3311197927&amp;len-sec=142&amp;a-type=1&amp;l-class=7">
+  <TEXT>Buy albums on iTunes</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.79200" y="3.38000" w="27.93300" h="7.47200" t="0:00.000"/>
+      <rectRegion x="0.79200" y="3.38000" w="27.93300" h="7.47200" t="2:22.825"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="16777215" fgColor="0" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewRoom?fcId=992604709&amp;genreIdString=5&amp;mediaTypeString=Music?app=itunes" link_class="7"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:5515685e-0000-25c2-8a26-001a11403a92" style="branding" type="branding"
+            log_data="a-id=5515685e-0000-25c2-8a26-001a11403a92&amp;len-sec=143&amp;a-type=10&amp;xble=0&amp;link-id=UCSTXol20Q01Uj-U5Yp3IqFg&amp;img-type=1&amp;a-v=u5Sfz0nt3NI&amp;a-ch=UCSTXol20Q01Uj-U5Yp3IqFg">
+  <data>{&quot;start_ms&quot;:0,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/STXol20Q01Uj-U5Yp3IqFg\/featured_channel.jpg?v=551a6e64&quot;,&quot;channel_id&quot;:&quot;UCSTXol20Q01Uj-U5Yp3IqFg&quot;,&quot;subscription_token&quot;:&quot;&quot;,&quot;is_mobile&quot;:false,&quot;end_ms&quot;:143000,&quot;image_height&quot;:40,&quot;image_width&quot;:40,&quot;image_type&quot;:1,&quot;num_subscribers&quot;:&quot;17,681 subscribers&quot;,&quot;channel_name&quot;:&quot;Chopin Institute&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UCSTXol20Q01Uj-U5Yp3IqFg?annotation_id=5515685e-0000-25c2-8a26-001a11403a92&amp;feature=iv&amp;src_vid=u5Sfz0nt3NI"/>
+  </action>
+  <html_blob>
+    
+  </html_blob>
+</annotation>
+
+<annotation id="video:200fb125-f9bb-4962-b364-bbc9d071380e" style="merch" type="card" log_data="link=https%3A%2F%2Fitunes.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewRoom%3FfcId%3D992604709%26genreIdString%3D5%26mediaTypeString%3DMusic%3Fapp%3Ditunes&amp;xble=0&amp;a-v=u5Sfz0nt3NI&amp;a-id=200fb125-f9bb-4962-b364-bbc9d071380e&amp;len-sec=10&amp;a-type=66&amp;a-ch=UCSTXol20Q01Uj-U5Yp3IqFg">
+  <data>{&quot;show_link_icon&quot;:true,&quot;sponsored&quot;:false,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/u5Sfz0nt3NI\/200fb125-f9bb-4962-b364-bbc9d071380e_mq.jpg?v=561273e7&quot;,&quot;target&quot;:&quot;new&quot;,&quot;title&quot;:&quot;Buy albums on iTunes&quot;,&quot;teaser_text&quot;:&quot;Buy albums on iTunes&quot;,&quot;display_domain&quot;:&quot;itunes.apple.com&quot;,&quot;end_ms&quot;:501,&quot;teaser_duration_ms&quot;:5000,&quot;card_type&quot;:&quot;merch&quot;,&quot;start_ms&quot;:501,&quot;url&quot;:&quot;https:\/\/itunes.apple.com\/WebObjects\/MZStore.woa\/wa\/viewRoom?fcId=992604709\u0026genreIdString=5\u0026mediaTypeString=Music?app=itunes&quot;,&quot;timestamp&quot;:1444049896013,&quot;custom_message&quot;:&quot;iTunes&quot;,&quot;pause_on_navigation&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewRoom?fcId=992604709&amp;genreIdString=5&amp;mediaTypeString=Music?app=itunes"/>
+  </action>
+</annotation>
+
+<annotation id="video:9d2becc5-6647-42a6-ad86-c6ffe2804edf" style="playlist" type="card" log_data="link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0FJYuIamGgo%26amp%3Blist%3DPLTmn2qD3aSQseoFVhcmBsi3m7hDGeU5ml%26amp%3Bannotation_id%3D9d2becc5-6647-42a6-ad86-c6ffe2804edf%26amp%3Bfeature%3Dcards%26amp%3Bsrc_vid%3Du5Sfz0nt3NI&amp;xble=0&amp;a-v=u5Sfz0nt3NI&amp;a-id=9d2becc5-6647-42a6-ad86-c6ffe2804edf&amp;len-sec=10&amp;a-type=63&amp;link-id=PLTmn2qD3aSQseoFVhcmBsi3m7hDGeU5ml&amp;a-ch=UCSTXol20Q01Uj-U5Yp3IqFg">
+  <data>{&quot;teaser_duration_ms&quot;:5000,&quot;custom_message&quot;:&quot;&quot;,&quot;start_ms&quot;:119959,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/0FJYuIamGgo\/mqdefault.jpg&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;title&quot;:&quot;Stage I of the 17th International Fryderyk Chopin Piano Competition&quot;,&quot;teaser_text&quot;:&quot;Suggested: Stage I of the 17th International Fryderyk Chopin Piano Competition&quot;,&quot;end_ms&quot;:119959,&quot;playlist_video_count&quot;:312,&quot;pause_on_navigation&quot;:true,&quot;meta_info&quot;:[&quot;by Chopin Institute&quot;,&quot;312 videos&quot;],&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=0FJYuIamGgo\u0026list=PLTmn2qD3aSQseoFVhcmBsi3m7hDGeU5ml\u0026annotation_id=9d2becc5-6647-42a6-ad86-c6ffe2804edf\u0026feature=cards\u0026src_vid=u5Sfz0nt3NI&quot;,&quot;target&quot;:&quot;new&quot;,&quot;card_type&quot;:&quot;playlist&quot;,&quot;timestamp&quot;:1444049902626}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=0FJYuIamGgo&amp;list=PLTmn2qD3aSQseoFVhcmBsi3m7hDGeU5ml&amp;annotation_id=9d2becc5-6647-42a6-ad86-c6ffe2804edf&amp;feature=cards&amp;src_vid=u5Sfz0nt3NI"/>
+  </action>
+</annotation>
+</annotations></document>
