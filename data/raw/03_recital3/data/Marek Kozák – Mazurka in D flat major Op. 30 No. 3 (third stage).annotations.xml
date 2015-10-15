@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations>
+<annotation id="annotation_3593563653" type="text" style="popup" log_data="link=https%3A%2F%2Fitunes.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewRoom%3FfcId%3D992604709%26genreIdString%3D5%26mediaTypeString%3DMusic%3Fapp%3Ditunes&amp;xble=1&amp;a-v=_sErTdznQBQ&amp;l-class=7&amp;len-sec=142&amp;a-type=1&amp;a-id=annotation_3593563653">
+  <TEXT>Buy albums on iTunes</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.06000" y="3.66200" w="26.82300" h="8.88700" t="0:00.000"/>
+      <rectRegion x="2.06000" y="3.66200" w="26.82300" h="8.88700" t="2:22.222"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="16777215" fgColor="0" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewRoom?fcId=992604709&amp;genreIdString=5&amp;mediaTypeString=Music?app=itunes" link_class="7"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_387330563" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCSTXol20Q01Uj-U5Yp3IqFg%3Fsub_confirmation%3D1&amp;xble=1&amp;a-v=_sErTdznQBQ&amp;l-class=5&amp;len-sec=142&amp;a-type=1&amp;a-id=annotation_387330563">
+  <TEXT>Subscribe</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="32.17100" y="3.66200" w="16.52100" h="8.60600" t="0:00.000"/>
+      <rectRegion x="32.17100" y="3.66200" w="16.52100" h="8.60600" t="2:22.222"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="16777215" fgColor="0" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCSTXol20Q01Uj-U5Yp3IqFg?sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:5515685e-0000-25c2-8a26-001a11403a92" style="branding" type="branding"
+            log_data="link-id=UCSTXol20Q01Uj-U5Yp3IqFg&amp;len-sec=143&amp;xble=0&amp;a-type=10&amp;a-id=5515685e-0000-25c2-8a26-001a11403a92&amp;img-type=1&amp;a-ch=UCSTXol20Q01Uj-U5Yp3IqFg&amp;a-v=_sErTdznQBQ">
+  <data>{&quot;channel_name&quot;:&quot;Chopin Institute&quot;,&quot;image_height&quot;:40,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/STXol20Q01Uj-U5Yp3IqFg\/featured_channel.jpg?v=551a6e64&quot;,&quot;start_ms&quot;:0,&quot;channel_id&quot;:&quot;UCSTXol20Q01Uj-U5Yp3IqFg&quot;,&quot;num_subscribers&quot;:&quot;18,692 subscribers&quot;,&quot;image_type&quot;:1,&quot;is_mobile&quot;:false,&quot;end_ms&quot;:143000,&quot;image_width&quot;:40,&quot;subscription_token&quot;:&quot;&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UCSTXol20Q01Uj-U5Yp3IqFg?src_vid=_sErTdznQBQ&amp;annotation_id=5515685e-0000-25c2-8a26-001a11403a92&amp;feature=iv"/>
+  </action>
+  <html_blob>
+    
+  </html_blob>
+</annotation>
+</annotations></document>

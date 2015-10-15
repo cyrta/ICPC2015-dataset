@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations>
+<annotation id="channel:5515685e-0000-25c2-8a26-001a11403a92" style="branding" type="branding"
+            log_data="a-v=V_BAivqGCac&amp;a-type=10&amp;link-id=UCSTXol20Q01Uj-U5Yp3IqFg&amp;img-type=1&amp;a-id=5515685e-0000-25c2-8a26-001a11403a92&amp;len-sec=797&amp;a-ch=UCSTXol20Q01Uj-U5Yp3IqFg&amp;xble=0">
+  <data>{&quot;num_subscribers&quot;:&quot;18,224 subscribers&quot;,&quot;image_type&quot;:1,&quot;end_ms&quot;:797000,&quot;subscription_token&quot;:&quot;&quot;,&quot;image_width&quot;:40,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/STXol20Q01Uj-U5Yp3IqFg\/featured_channel.jpg?v=551a6e64&quot;,&quot;channel_name&quot;:&quot;Chopin Institute&quot;,&quot;channel_id&quot;:&quot;UCSTXol20Q01Uj-U5Yp3IqFg&quot;,&quot;image_height&quot;:40,&quot;start_ms&quot;:0,&quot;is_mobile&quot;:false}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UCSTXol20Q01Uj-U5Yp3IqFg?feature=iv&amp;annotation_id=5515685e-0000-25c2-8a26-001a11403a92&amp;src_vid=V_BAivqGCac"/>
+  </action>
+  <html_blob>
+    
+  </html_blob>
+</annotation>
+
+<annotation id="channel:5529bb8c-0000-221d-87f5-001a113e38f2" style="playlist" type="promotion"
+            log_data="a-v=V_BAivqGCac&amp;a-type=12&amp;link-id=PLTmn2qD3aSQuKEzTQr8vFzf8B_fHXiQYW&amp;a-id=5529bb8c-0000-221d-87f5-001a113e38f2&amp;len-sec=10&amp;a-ch=UCSTXol20Q01Uj-U5Yp3IqFg&amp;xble=1&amp;msg=0">
+  <data>{&quot;playlist_length&quot;:77,&quot;end_ms&quot;:797000,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/JFYzmYLEHtA\/mqdefault.jpg&quot;,&quot;text_line_2&quot;:&quot;Chopin Competition 2015 \u2013 pianists qualified in Preliminary Round&quot;,&quot;text_line_1&quot;:&quot;Suggested by Chopin Institute&quot;,&quot;collapse_delay_ms&quot;:86400000,&quot;start_ms&quot;:787000,&quot;is_mobile&quot;:false}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=JFYzmYLEHtA&amp;list=PLTmn2qD3aSQuKEzTQr8vFzf8B_fHXiQYW&amp;feature=iv&amp;annotation_id=5529bb8c-0000-221d-87f5-001a113e38f2&amp;src_vid=V_BAivqGCac"/>
+  </action>
+</annotation>
+
+<annotation id="channel:561e964c-0000-2412-87f2-94eb2c08d180" style="video" type="promotion"
+            log_data="is-live=1&amp;a-v=V_BAivqGCac&amp;a-type=11&amp;link-id=P6S3QCBgV-c&amp;a-id=561e964c-0000-2412-87f2-94eb2c08d180&amp;len-sec=15&amp;a-ch=UCSTXol20Q01Uj-U5Yp3IqFg&amp;xble=1&amp;msg=1">
+  <data>{&quot;end_ms&quot;:15000,&quot;is_live&quot;:true,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/P6S3QCBgV-c\/mqdefault_live.jpg&quot;,&quot;text_line_2&quot;:&quot;stage III, 15.10.2015 (10 a.m.\u20132.10 p.m.) 17th Chopin Piano Competition&quot;,&quot;text_line_1&quot;:&quot;Chopin Institute is live on Youtube&quot;,&quot;video_duration&quot;:&quot;0:00&quot;,&quot;collapse_delay_ms&quot;:86400000,&quot;start_ms&quot;:0,&quot;is_mobile&quot;:false}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=P6S3QCBgV-c&amp;feature=iv&amp;annotation_id=561e964c-0000-2412-87f2-94eb2c08d180&amp;src_vid=V_BAivqGCac"/>
+  </action>
+</annotation>
+</annotations></document>

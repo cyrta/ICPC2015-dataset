@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations>
+<annotation id="channel:5515685e-0000-25c2-8a26-001a11403a92" style="branding" type="branding"
+            log_data="a-id=5515685e-0000-25c2-8a26-001a11403a92&amp;len-sec=696&amp;a-type=10&amp;xble=0&amp;link-id=UCSTXol20Q01Uj-U5Yp3IqFg&amp;img-type=1&amp;a-v=Y0CJlJ2_DQs&amp;a-ch=UCSTXol20Q01Uj-U5Yp3IqFg">
+  <data>{&quot;subscription_token&quot;:&quot;&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/STXol20Q01Uj-U5Yp3IqFg\/featured_channel.jpg?v=551a6e64&quot;,&quot;image_height&quot;:40,&quot;num_subscribers&quot;:&quot;18,692 subscribers&quot;,&quot;end_ms&quot;:696000,&quot;channel_name&quot;:&quot;Chopin Institute&quot;,&quot;start_ms&quot;:0,&quot;image_type&quot;:1,&quot;channel_id&quot;:&quot;UCSTXol20Q01Uj-U5Yp3IqFg&quot;,&quot;is_mobile&quot;:false,&quot;image_width&quot;:40}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UCSTXol20Q01Uj-U5Yp3IqFg?annotation_id=5515685e-0000-25c2-8a26-001a11403a92&amp;feature=iv&amp;src_vid=Y0CJlJ2_DQs"/>
+  </action>
+  <html_blob>
+    
+  </html_blob>
+</annotation>
+</annotations></document>
